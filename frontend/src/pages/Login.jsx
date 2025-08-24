@@ -44,7 +44,7 @@ export function Login({ className, ...props }) {
   };
 
   return (
-    <div className="flex items-center justify-center h-screen bg-gray-50">
+    <div className="flex items-center justify-center h-screen">
       <Card
         className={cn(
           "w-[90vw] sm:w-[70vw] md:w-[50vw] lg:w-[35vw] p-8",
